@@ -35,7 +35,7 @@ Steps taken to prepare the data:
 The project implements:
 - **Descriptive Statistics**: For trend analysis.
 - **Correlation Analysis**: To explore relationships between variables.
-- **Predictive Modeling** (if applicable): Includes regression and classification techniques for forecasting.
+- **Predictive Modeling** Includes regression and classification techniques for forecasting.
 
 ## Visualizations
 The analysis includes several impactful visualizations:
