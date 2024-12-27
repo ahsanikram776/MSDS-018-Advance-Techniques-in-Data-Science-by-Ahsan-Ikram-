@@ -54,5 +54,5 @@ Based on the analysis, the following recommendations are proposed:
 ## Video Presentation
 A detailed video presentation explains the project and findings. [Insert link to video presentation here]
 
-## Conclusion
+## Wrapping Up
 This project provides a comprehensive analysis of Amazon sales data, highlighting critical trends and actionable insights. By enhancing the data preprocessing, modeling, and visualization processes, it enables more informed decision-making to improve sales performance and customer satisfaction.
