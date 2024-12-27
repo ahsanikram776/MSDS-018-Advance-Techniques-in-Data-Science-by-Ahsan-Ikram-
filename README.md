@@ -52,7 +52,7 @@ Based on the analysis, the following recommendations are proposed:
 - Use advanced models like XGBoost or Random Forest for better predictions.
 
 ## Video Presentation
-A detailed video presentation explains the project and findings. [Insert link to video presentation here]
+A detailed video presentation explains the project and findings. (https://drive.google.com/file/d/1hPbecQBsUAOE0hblJX1StJoWSndEoVAQ/view?usp=sharing)] https://drive.google.com/file/d/19XdCe8D23GM_Lhb8vYtOGi0t9_yc2ko1/view?usp=sharing
 
 ## Wrapping Up
 This project provides a comprehensive analysis of Amazon sales data, highlighting critical trends and actionable insights. By enhancing the data preprocessing, modeling, and visualization processes, it enables more informed decision-making to improve sales performance and customer satisfaction.
